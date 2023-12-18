@@ -294,3 +294,157 @@ Graphische Lösungsmethoden (Richtungsfelder, Integralkurven), symbolische Lösu
 * Lineare Abbildungen
   - Lineare Abbildungen und Matrizen
   - Dimensionssatz
+
+## Semester 3
+
+### Communication Competence 3
+
+Im Modul Communication Competence 3 liegt der Schwerpunkt auf folgenden Aspekten des Kommunikationstrainings:
+* Kommunikation im internationalen und interdisziplinären Umfeld
+* Sprachmittlung zwischen Englisch und Deutsch
+* Argumentationstheorie/-technik und Verhandlungsführung
+​Die Inhalte der Veranstaltung werden in einen handlungsorientierten Kontext eingebettet, sind kompetenzorientiert und mehrsprachig. 
+
+**Sprachniveau Englisch:** Es wird vorausgesetzt, dass sich die Studierenden spontan, klar und ohne grössere Anstrengung in berufs- und studienrelevanten Kommunikationssituationen verständigen sowie ihre Standpunkte erläutern können.
+
+### Datenbanken
+
+* Einführung in die Rolle von Datenbanksystemen und in grundlegenden Datenbankkonzepte
+  
+* Relationale Algebra
+  - Grundoperationen (Selektion, Projektion, Join, Mengenoperationen)
+  - grundlegende Abfragemuster
+  - Schlüssel
+  
+* Datenmodellierung: Entity Relationship (ER) Modelling, korrektes ER-Diagramm
+  - ER-Designelemente
+  - Ableitung von Tabellen aus dem ER-Design
+  - Begriff des korrekten ER-Diagramms
+  - Überblick über die durch korrektes Design vermiedenen Probleme (Normalformen) 
+  
+* SQL (Structured Query Language)
+  - SQL DDL/DML (Tabellen erstellen, Einträge vornehmen/bearbeiten/löschen)
+  - SQL Queries (einfache Queries, EXIST-Klausel, Aggregation, Views)
+  
+* Datenbankprogrammierung
+  - Stored Procedures
+  - Trigger
+  
+* Indexe
+  - Aufbau & Zweck von Indexen
+  - Anwendung
+  
+* Transaktionen
+  - ACID-Prinzip
+  - Grundlagen Transaktion, Commit, Rollback
+  - Datenbankfehler
+
+### Algorithmen & Datenstrukturen
+
+* Allgemeine Konzepte
+  - Asymptotische Komplexität (O-Notation)
+  - Analyse von Algorithmen (Laufzeit und Speicherplatz)
+
+* Algorithmen-Paradigmen
+  - Rekursion
+  - Backtracking
+  - Greedy-Algorithmen
+  - Divide and Conquer
+
+* Datenstrukturen
+  - Stack und Queue
+  - Liste
+  - Hash-Tabelle
+  - Bäume
+  - Graphen
+  
+* Algorithmen
+  - Suchen
+  - Baum-Traversierung
+  - Rotation in ausgeglichenen Suchbäumen
+  - Hash-Tabellen
+  - Kürzeste Wege in Graphen
+  - Breiten und Tiefensuche in Graphen
+  - Sortierverfahren
+  - Untere Laufzeit-Schranke
+  
+* Algorithmen in Java
+  - Objects/equals/hashCode
+  - Comparator/Comparable
+  - Collections
+  - Generics
+  - Iterator
+
+### Stochastik und Statistik
+
+* Deskriptive Statistik
+  - Einführung einer Statistiksoftware
+  - Darstellung von Häufigkeiten und Verteilungsfunktion
+  - Lagemasse und Streumasse
+  - Klassierte Daten
+  - Bivariate und multivariate Daten (optional)
+  - Korrelation
+
+* Wahrscheinlichkeitsrechnung
+  - Zufällige Ereignisse
+  - Wahrscheinlichkeitsbegriff
+  - Wahrscheinlichkeitsmodelle
+  - Stochastische Unabhängigkeit
+  - Bedingte Wahrscheinlichkeit
+
+* Verteilungen
+  - Zufallsvariable
+  - Dichtefunktion
+  - Verteilungsfunktion
+  - Diskrete Verteilungen 
+  - Stetige Verteilungen
+  - Kenngrössen
+  - Grenzwertsätze
+
+* Schätzen und Testen
+  - Punktschätzung (wie lineare Regression, Maximum-Likelihood-Schätzung, Momentenmethode)
+  - Intervallschätzung
+  - Hypothesentests
+
+### Höhere Mathematik für Ingenieure 1
+
+* Einführung in Python
+  - Datentypen
+  - Funktionen
+  - Programme
+
+* Rechnerarithmetik
+  - Maschinenzahlen (Gleitpunkt- und Festpunktzahlen, single-precision, double-precision, IEEE Formate)
+  - Approximations- und Rundungsfehler
+  - Konditionierung
+
+* Numerische Lösung von Nullstellenproblemen
+  - Fixpunktiterationen
+  - Newton-Verfahren
+
+* Numerische Lösung linearer Gleichungssysteme
+  - Gauss-Algorithmus mit Fehlerfortpflanzung und Pivotisierung
+  - Dreieckszerlegung von Matrizen
+    - LR-Zerlegung
+    - QR-Zerlegung
+  - Fehlerrechnung und Aufwandabschätzung
+  - Iterative Verfahren
+    - Jacobi-Verfahren
+    - Gauss-Seidel-Verfahren
+  - Einführung in die komplexen Zahlen
+  - Numerische Berechnung von Eigenwerten und Eigenvektoren
+
+### Grundlagen der Elektrotechnik und Digitaltechnik
+
+* Energie, Leistung, Kraft, Spannung.
+* Strom, Schaltungen, Kirchhoff'sche Gesetze, Ohmsches Gesetz.
+* Grundelemente der Digitaltechnik.
+* Logische Schaltungen.
+* Elektrische und magnetische Felder.
+* Elektromagnetische Wellen.
+* Strahlung.
+* Signalformen, anschauliche Einführung der Fouriertransformation, Spektrum.
+* Dispersion, Interferenz, Diffraktion.
+* Signalflanken, Charakteristiken von Übertragungsmedien.
+* Analoge Schaltungen, Kopplungen.
+* Laser.
