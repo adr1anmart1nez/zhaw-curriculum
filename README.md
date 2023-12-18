@@ -4,7 +4,7 @@
 
 * Semester 1
   - Communication Competence 1
-  - Software-Projekt 1
+  - [Software-Projekt 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-1)
   - Programmieren 1
   - Information & Codierung
   - Analysis 1
@@ -12,7 +12,7 @@
     
 * Semester 2
   - Communication Competence 2
-  - Software-Projekt 2
+  - [Software-Projekt 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-2)
   - Programmieren 2
   - Theoretische Informatik
   - Analysis 2
