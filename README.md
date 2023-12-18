@@ -5,6 +5,7 @@
 * Semester 1
   - [Communication Competence 1](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-1)
   - [Software-Projekt 1](https://github.com/adr1anmart1nez/zhaw-curriculum#software-projekt-1)
+    - Projekte
   - [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum#programmieren-1)
   - [Information & Codierung](https://github.com/adr1anmart1nez/zhaw-curriculum#information--codierung)
   - [Analysis 1](https://github.com/adr1anmart1nez/zhaw-curriculum#analysis-1)
@@ -13,6 +14,7 @@
 * Semester 2
   - [Communication Competence 2](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-2)
   - [Software-Projekt 2](https://github.com/adr1anmart1nez/zhaw-curriculum#software-projekt-2)
+    - Projekte
   - [Programmieren 2](https://github.com/adr1anmart1nez/zhaw-curriculum#programmieren-2)
   - [Theoretische Informatik](https://github.com/adr1anmart1nez/zhaw-curriculum#theoretische-informatik)
   - [Analysis 2](https://github.com/adr1anmart1nez/zhaw-curriculum#analysis-2)
@@ -22,6 +24,7 @@
   - [Communication Competence 3](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-3)
   - [Datenbanken](https://github.com/adr1anmart1nez/zhaw-curriculum#datenbanken)
   - [Algorithmen & Datenstrukturen](https://github.com/adr1anmart1nez/zhaw-curriculum#algorithmen--datenstrukturen)
+    - Praktikum
   - [Stochastik und Statistik](https://github.com/adr1anmart1nez/zhaw-curriculum#stochastik-und-statistik)
   - [Höhere Mathematik für Informatiker 1](https://github.com/adr1anmart1nez/zhaw-curriculum#h%C3%B6here-mathematik-f%C3%BCr-informatiker-1)
   - [Grundlagen der Elektrotechnik und Digitaltechnik](https://github.com/adr1anmart1nez/zhaw-curriculum#grundlagen-der-elektrotechnik-und-digitaltechnik)
@@ -82,6 +85,8 @@ Die Inhalte der Veranstaltung werden in einen handlungsorientierten Kontext eing
 Die Studierenden erstellen und analysieren in kleinen Teams selbstständig Programmcode und wenden dabei die Lerninhalte aus dem parallelen Kurs [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum#programmieren-1) an. Dabei soll das bisher Gelernte (Java, Clean Code, Unit Testing etc.) konsequent angewendet und weiter vertieft werden. 
 Im Module Software-Projekt 1 werden keine weiteren Lerninhalte vermittelt ausser Teamrollen, Sitzungsführung und Verfassen von Protokollen, adressatengerechte Kommunikation technischer Inhalte und Nutzung einer Codeverwaltung. 
 Neben dem Fokus auf diese Kompetenzen werden auch die überfachlichen Kompetenzen in Selbstorganisation, Teamarbeit, Recherche sowie mündliche und schriftliche Kommunikation technischer Inhalte gefördert.
+
+#### Projekte
 
 | Name | Link |
 | ---- | ---- |
@@ -187,6 +192,8 @@ Die Studierenden erstellen und analysieren in Teams selbständig einfache Anwend
 Neben diesen Kompetenzen werden auch die überfachlichen Kompetenzen in Selbstorganisation, Teamarbeit, Projektmanagement sowie mündliche und schriftliche Kommunikation technischer Inhalte gefördert.
 Zudem verwenden die Studierenden konsequent bewährte best-practice Methoden wie Test-Driven-Development und Clean-Code. Das Management des Codes erfolgt mit einer Versionsverwaltung sowie eines vorgegeben Workflows. Sie planen und dokumentieren die Anforderungen, Fehler und Fortschritte über den gesamten Projektverlauf (Issuetracking).
 Es werden keine neuen Lerninhalte vermittelt ausser Methodik und Anwendung von Entwicklungswerkzeugen im Team, Ideenfindung und Evaluation, adressatengerechte Kommunikation (Investoren/Kunden Ebene), Reflexion von Projektverlauf und -ergebniss.
+
+#### Projekte
 
 | Name | Link |
 | ---- | ---- |
@@ -374,6 +381,10 @@ Im Modul Communication Competence 3 liegt der Schwerpunkt auf folgenden Aspekten
   - Collections
   - Generics
   - Iterator
+
+#### Praktika
+
+[Link für die Praktika](https://github.com/adr1anmart1nez/ads-praktika)
 
 ### Stochastik und Statistik
 
