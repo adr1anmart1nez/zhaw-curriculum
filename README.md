@@ -79,3 +79,7 @@
 
 ### Software-Projekt 2
 
+| Name | Link |
+| ---- | ---- |
+| Projekt 1: Racetrack | [Repo](https://github.com/adr1anmart1nez/pm2-project1-racetrack) |
+| Projekt 2: StudyFlow | [Repo](https://github.com/adr1anmart1nez/pm2-project2-studyflow) |
