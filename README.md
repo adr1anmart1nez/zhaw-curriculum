@@ -23,7 +23,7 @@
   - [Datenbanken](https://github.com/adr1anmart1nez/zhaw-curriculum#datenbanken)
   - [Algorithmen & Datenstrukturen](https://github.com/adr1anmart1nez/zhaw-curriculum#algorithmen--datenstrukturen)
   - [Stochastik und Statistik](https://github.com/adr1anmart1nez/zhaw-curriculum#stochastik-und-statistik)
-  - Höhere Mathematik für Informatiker 1
+  - [Höhere Mathematik für Informatiker 1](https://github.com/adr1anmart1nez/zhaw-curriculum#h%C3%B6here-mathematik-f%C3%BCr-informatiker-1)
   - Grundlagen der Elektrotechnik und Digitaltechnik
     
 * Semester 4
@@ -406,7 +406,7 @@ Im Modul Communication Competence 3 liegt der Schwerpunkt auf folgenden Aspekten
   - Intervallschätzung
   - Hypothesentests
 
-### Höhere Mathematik für Ingenieure 1
+### Höhere Mathematik für Informatiker 1
 
 * Einführung in Python
   - Datentypen
