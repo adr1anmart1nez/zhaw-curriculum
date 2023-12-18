@@ -3,7 +3,7 @@
 ## Übersicht
 
 * Semester 1
-  - [Communication Competence 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#communication-competence-1)
+  - [Communication Competence 1](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-1)
   - [Software-Projekt 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-1)
   - [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-1)
   - [Information & Codierung](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#information--codierung)
