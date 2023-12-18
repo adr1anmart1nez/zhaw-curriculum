@@ -4,25 +4,25 @@
 
 * Semester 1
   - [Communication Competence 1](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-1)
-  - [Software-Projekt 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-1)
-  - [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-1)
-  - [Information & Codierung](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#information--codierung)
-  - [Analysis 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#analysis-1)
-  - [Diskrete Mathematik](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#diskrete-mathematik)
+  - [Software-Projekt 1](https://github.com/adr1anmart1nez/zhaw-curriculum#software-projekt-1)
+  - [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum#programmieren-1)
+  - [Information & Codierung](https://github.com/adr1anmart1nez/zhaw-curriculum#information--codierung)
+  - [Analysis 1](https://github.com/adr1anmart1nez/zhaw-curriculum#analysis-1)
+  - [Diskrete Mathematik](https://github.com/adr1anmart1nez/zhaw-curriculum#diskrete-mathematik)
     
 * Semester 2
-  - [Communication Competence 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#communication-competence-2)
-  - [Software-Projekt 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-2)
-  - [Programmieren 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-2)
-  - [Theoretische Informatik](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#theoretische-informatik)
-  - [Analysis 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#analysis-2)
-  - [Lineare Algebra](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#lineare-algebra)
+  - [Communication Competence 2](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-2)
+  - [Software-Projekt 2](https://github.com/adr1anmart1nez/zhaw-curriculum#software-projekt-2)
+  - [Programmieren 2](https://github.com/adr1anmart1nez/zhaw-curriculum#programmieren-2)
+  - [Theoretische Informatik](https://github.com/adr1anmart1nez/zhaw-curriculum#theoretische-informatik)
+  - [Analysis 2](https://github.com/adr1anmart1nez/zhaw-curriculum#analysis-2)
+  - [Lineare Algebra](https://github.com/adr1anmart1nez/zhaw-curriculum#lineare-algebra)
     
 * Semester 3
-  - [Communication Competence 3](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#communication-competence-3)
-  - [Datenbanken](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#datenbanken)
-  - [Algorithmen & Datenstrukturen](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#algorithmen--datenstrukturen)
-  - [Stochastik und Statistik](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#stochastik-und-statistik)
+  - [Communication Competence 3](https://github.com/adr1anmart1nez/zhaw-curriculum#communication-competence-3)
+  - [Datenbanken](https://github.com/adr1anmart1nez/zhaw-curriculum#datenbanken)
+  - [Algorithmen & Datenstrukturen](https://github.com/adr1anmart1nez/zhaw-curriculum#algorithmen--datenstrukturen)
+  - [Stochastik und Statistik](https://github.com/adr1anmart1nez/zhaw-curriculum#stochastik-und-statistik)
   - Höhere Mathematik für Informatiker 1
   - Grundlagen der Elektrotechnik und Digitaltechnik
     
@@ -79,7 +79,7 @@ Die Inhalte der Veranstaltung werden in einen handlungsorientierten Kontext eing
 
 ### Software-Projekt 1
 
-Die Studierenden erstellen und analysieren in kleinen Teams selbstständig Programmcode und wenden dabei die Lerninhalte aus dem parallelen Kurs [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-1) an. Dabei soll das bisher Gelernte (Java, Clean Code, Unit Testing etc.) konsequent angewendet und weiter vertieft werden. 
+Die Studierenden erstellen und analysieren in kleinen Teams selbstständig Programmcode und wenden dabei die Lerninhalte aus dem parallelen Kurs [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum#programmieren-1) an. Dabei soll das bisher Gelernte (Java, Clean Code, Unit Testing etc.) konsequent angewendet und weiter vertieft werden. 
 Im Module Software-Projekt 1 werden keine weiteren Lerninhalte vermittelt ausser Teamrollen, Sitzungsführung und Verfassen von Protokollen, adressatengerechte Kommunikation technischer Inhalte und Nutzung einer Codeverwaltung. 
 Neben dem Fokus auf diese Kompetenzen werden auch die überfachlichen Kompetenzen in Selbstorganisation, Teamarbeit, Recherche sowie mündliche und schriftliche Kommunikation technischer Inhalte gefördert.
 
