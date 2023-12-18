@@ -6,23 +6,23 @@
   - [Communication Competence 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#communication-competence-1)
   - [Software-Projekt 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-1)
   - [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-1)
-  - Information & Codierung
-  - Analysis 1
-  - Diskrete Mathematik
+  - [Information & Codierung](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#information--codierung)
+  - [Analysis 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#analysis-1)
+  - [Diskrete Mathematik](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#diskrete-mathematik)
     
 * Semester 2
-  - Communication Competence 2
+  - [Communication Competence 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#communication-competence-2)
   - [Software-Projekt 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#software-projekt-2)
-  - Programmieren 2
-  - Theoretische Informatik
-  - Analysis 2
-  - Lineare Algebra
+  - [Programmieren 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-2)
+  - [Theoretische Informatik](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#theoretische-informatik)
+  - [Analysis 2](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#analysis-2)
+  - [Lineare Algebra](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#lineare-algebra)
     
 * Semester 3
-  - Communication Competence
-  - Datenbanken
-  - Algorithmen & Datenstrukturen
-  - Stochastik und Statistik
+  - [Communication Competence 3](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#communication-competence-3)
+  - [Datenbanken](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#datenbanken)
+  - [Algorithmen & Datenstrukturen](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#algorithmen--datenstrukturen)
+  - [Stochastik und Statistik](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#stochastik-und-statistik)
   - Höhere Mathematik für Informatiker 1
   - Grundlagen der Elektrotechnik und Digitaltechnik
     
