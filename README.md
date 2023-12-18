@@ -69,13 +69,11 @@
 
 ### Software-Projekt 1
 
-### Programmieren 1
-
-### Information & Codierung
-
-### Analysis 1
-
-### Diskrete Ma
+| Name | Link |
+| ---- | ---- |
+| Projekt 1: Tic-Tac-Toe | [Repo](https://github.com/adr1anmart1nez/pm1-project1-tictactoe) |
+| Projekt 2: Textverarbeitung | [Repo](https://github.com/adr1anmart1nez/pm1-project2-textverarbeitung) |
+| Projekt 3: Siedler von Catan | [Repo](https://github.com/adr1anmart1nez/pm1-project3-siedler) |
 
 ## Semester 2
 
