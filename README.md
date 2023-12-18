@@ -79,7 +79,9 @@ Die Inhalte der Veranstaltung werden in einen handlungsorientierten Kontext eing
 
 ### Software-Projekt 1
 
-Die Studierenden erstellen und analysieren in kleinen Teams selbstständig Programmcode und wenden dabei die Lerninhalte aus dem parallelen Kurs [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-1) an. Dabei soll das bisher Gelernte (Java, Clean Code, Unit Testing etc.) konsequent angewendet und weiter vertieft werden. Im Module Software-Projekt 1 werden keine weiteren Lerninhalte vermittelt ausser Teamrollen, Sitzungsführung und Verfassen von Protokollen, adressatengerechte Kommunikation technischer Inhalte und Nutzung einer Codeverwaltung. Neben dem Fokus auf diese Kompetenzen werden auch die überfachlichen Kompetenzen in Selbstorganisation, Teamarbeit, Recherche sowie mündliche und schriftliche Kommunikation technischer Inhalte gefördert.
+Die Studierenden erstellen und analysieren in kleinen Teams selbstständig Programmcode und wenden dabei die Lerninhalte aus dem parallelen Kurs [Programmieren 1](https://github.com/adr1anmart1nez/zhaw-curriculum/blob/main/README.md#programmieren-1) an. Dabei soll das bisher Gelernte (Java, Clean Code, Unit Testing etc.) konsequent angewendet und weiter vertieft werden. 
+Im Module Software-Projekt 1 werden keine weiteren Lerninhalte vermittelt ausser Teamrollen, Sitzungsführung und Verfassen von Protokollen, adressatengerechte Kommunikation technischer Inhalte und Nutzung einer Codeverwaltung. 
+Neben dem Fokus auf diese Kompetenzen werden auch die überfachlichen Kompetenzen in Selbstorganisation, Teamarbeit, Recherche sowie mündliche und schriftliche Kommunikation technischer Inhalte gefördert.
 
 | Name | Link |
 | ---- | ---- |
@@ -169,9 +171,126 @@ Folgende Inhalte werden in diesem Kurs vermittelt:
 
 ## Semester 2
 
+### Communication Competence 2
+
+Im Modul Communication Competence 2 liegt der Schwerpunkt auf folgenden Aspekten des Kommunikationstrainings: 
+* Kollaboratives Schreiben und Peer-Feedback im wissenschaftlichen bzw. beruflichen Kontext
+* Vertiefung der Recherchierfähigkeit 
+* Adressatenorientierte Kommunikation und wissenschaftlicher Sprachgebrauch
+Die Inhalte der Veranstaltung werden in einen handlungsorientierten Kontext eingebettet, sind kompetenzorientiert und mehrsprachig. 
+
+**Sprachniveau Englisch:** Es wird vorausgesetzt, dass sich die Studierenden spontan, klar und ohne grössere Anstrengung in berufs-und studienrelevanten Kommunikationssituationen verständigen sowie ihre Standpunkte erläutern können.
+
 ### Software-Projekt 2
+
+Die Studierenden erstellen und analysieren in Teams selbständig einfache Anwendungen, aufgeteilt auf eine Übung und zwei kleinere Projekte und wenden dabei die Lerninhalte aus anderen Modulen (insbesondere Programmieren 1 & 2) konsequent an.
+Neben diesen Kompetenzen werden auch die überfachlichen Kompetenzen in Selbstorganisation, Teamarbeit, Projektmanagement sowie mündliche und schriftliche Kommunikation technischer Inhalte gefördert.
+Zudem verwenden die Studierenden konsequent bewährte best-practice Methoden wie Test-Driven-Development und Clean-Code. Das Management des Codes erfolgt mit einer Versionsverwaltung sowie eines vorgegeben Workflows. Sie planen und dokumentieren die Anforderungen, Fehler und Fortschritte über den gesamten Projektverlauf (Issuetracking).
+Es werden keine neuen Lerninhalte vermittelt ausser Methodik und Anwendung von Entwicklungswerkzeugen im Team, Ideenfindung und Evaluation, adressatengerechte Kommunikation (Investoren/Kunden Ebene), Reflexion von Projektverlauf und -ergebniss.
 
 | Name | Link |
 | ---- | ---- |
 | Projekt 1: Racetrack | [Repo](https://github.com/adr1anmart1nez/pm2-project1-racetrack) |
 | Projekt 2: StudyFlow | [Repo](https://github.com/adr1anmart1nez/pm2-project2-studyflow) |
+
+### Programmieren 2
+
+* Erweiterte Java Sprachkonzepte
+  - Fehler-/Ausnahmebehandlung
+  - Innere Klassen & Anonyme innere Klassen
+  - Lambda-Ausdrücke (Funktionale Interfaces)
+  - Methodenreferenzen, Funktionen als Argumente und Rückgabewerte
+  - Funktionale Streams
+
+* Nebenläufigkeit
+  - Erzeugen und Beenden von Threads
+  - Thread-Safety, Atomic-Types
+  - Thread Synchronisation
+  - Synchronized Queues   
+  - Erweitertes Monitor-Konzept, Lock & Condition
+  - Vermeiden von Deadlocks
+  - Fortgeschrittenes Thread-Handling
+
+* Einfache graphische Benutzeroberflächen
+  - GUI-Prinzipien, -Architektur, -Komponenten und -Layouts 
+  - Grafikausgabe (Graphics) und erstellen eigener GUI-Komponenten
+  - Model-View-Controller, Ereignisverarbeitung, Observer-Pattern
+  - Verwendung komplexer Komponenten
+
+* Ein- und Ausgabe von Daten – Java IO
+  - Umgang mit Dateien- & Verzeichnissen
+  - Lesen und Schrieben von Dateien 
+  - Java-Serialisierung, Encoding, Zeichensätze
+
+* Mock-Testing
+  - Isolated Testing, Behaviour- vs. State-Testing
+  - Stubbing und Behaviour-Verification
+  - Erstellen von Mock-Tests 
+
+### Theoretische Informatik
+
+* Motivation der theoretischen Informatik:
+  - Formale Berechnungsmodelle
+  - Grundlegende Prinzipien erkennen, unabhängig von Hard- und Software
+  - Grenzen der automatischen Berechnungen
+
+* Formale Sprachen / Automatentheorie:
+  - Grundlegende Definitionen der Formalen Sprachen
+  - Reguläre Sprachen, endlicher Automat (DEA, NEA, e-NEA)
+  - Kontextfreie Sprachen, Kellerautomaten
+  - (Rekursive Sprachen), Turingmaschine (TM) 
+  - Chomsky-Hierarchie
+
+* Berechenbarkeit und Algorithmus-Begriff:
+  - Berechenbare Funktionen Church'sche These
+  - Äquivalenz von TM und Computer
+  - Berechenbarkeit und Programmier-Sprachen: GOTO-, While- und Loop-Programme.
+  - Algorithmus-Begriff
+  - Primitive Rekursion
+  - Nicht-Entscheidbarkeit und Entscheidbarkeit: Diagonalisierungssprache Ld, Satz von Rice, Fleissige Bieber
+  - Semi-entscheidbare Probleme: Halteproblem, Game-of-Life, (Collatz-Zahlen ?)
+  - Reduktion
+
+* Komplexitätstheorie
+  - Komplexität von Algorithmen
+  - O-Notation (Omega-Notation)
+  - Polynomiale Funktionen und exponentielle Funktionen
+  - Klasse P, Klasse NP
+  - NP-vollständig, NP-schwierig
+  - Polynomialzeit-Reduktion
+
+### Analysis 2
+
+* Erweiterung der Integralrechnung
+Elementare Integrationsmethoden (partielle Integration, Substitutionsmethode, Integration mit Partialbruchzerlegung), Anwendungen der Integralrechnung, Regel von Bernoulli, uneigentliche Integrale
+
+* Potenzreihen und Taylor-Reihen
+Konvergenz und Divergenz von Reihen, Potenzreihen, Konvergenzradius, Taylor-Reihen, Approximations-Formeln für Funktionen
+
+* Einführung in gewöhnliche Differentialgleichungen
+Graphische Lösungsmethoden (Richtungsfelder, Integralkurven), symbolische Lösungsmethoden für lineare und separierbare Differentialgleichungen, Euler-Verfahren
+
+### Lineare Algebra
+
+* Lineare Gleichungssysteme:
+  - Lösbarkeitskriterien
+  - Lösungsverfahren (Gauss-Verfahren, Gauss-Jordan-Verfahren)
+
+* Vektorrechnung
+  - Rechenoperationen 
+  - Vektoren in Ebene und Raum
+  - Analytische Geometrie von Geraden und Ebenen
+
+* Vektorräume
+  - Allgemeine Vektorräume und Unterräume
+  - Lineare Unabhängigkeit, Basis, Dimension
+
+* Matrizenrechnung
+  - Spezielle Matrizen
+  - Rechenoperationen
+  - Inverse Matrix
+  - Determinante
+
+* Lineare Abbildungen
+  - Lineare Abbildungen und Matrizen
+  - Dimensionssatz
