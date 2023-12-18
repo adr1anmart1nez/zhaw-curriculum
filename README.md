@@ -24,7 +24,7 @@
   - [Algorithmen & Datenstrukturen](https://github.com/adr1anmart1nez/zhaw-curriculum#algorithmen--datenstrukturen)
   - [Stochastik und Statistik](https://github.com/adr1anmart1nez/zhaw-curriculum#stochastik-und-statistik)
   - [Höhere Mathematik für Informatiker 1](https://github.com/adr1anmart1nez/zhaw-curriculum#h%C3%B6here-mathematik-f%C3%BCr-informatiker-1)
-  - Grundlagen der Elektrotechnik und Digitaltechnik
+  - [Grundlagen der Elektrotechnik und Digitaltechnik](https://github.com/adr1anmart1nez/zhaw-curriculum#grundlagen-der-elektrotechnik-und-digitaltechnik)
     
 * Semester 4
   - Wirtschaft für Ingenieure
